@@ -1,0 +1,36 @@
+2021-06-04T17:29:00.310162000 0.014392s notice: Recursively removing directory /Users/tawanasiyamachira/Documents/e-commerce react/rethinkdb_data/tmp
+2021-06-04T17:29:00.311969000 0.016202s notice: Initializing directory /Users/tawanasiyamachira/Documents/e-commerce react/rethinkdb_data
+2021-06-04T17:29:00.312073000 0.016303s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/tawanasiyamachira/Documents/e-commerce react/rethinkdb_data' did not already exist or is empty.)
+2021-06-04T17:29:00.312108000 0.016338s notice: Running rethinkdb 2.4.1 (CLANG 12.0.0 (clang-1200.0.32.28))...
+2021-06-04T17:29:00.317407000 0.021638s notice: Running on Darwin 20.4.0 x86_64
+2021-06-04T17:29:00.317480000 0.021709s notice: Loading data from directory /Users/tawanasiyamachira/Documents/e-commerce react/rethinkdb_data
+2021-06-04T17:29:00.392085000 0.096318s info: Automatically using cache size of 3781 MB
+2021-06-04T17:29:00.392663000 0.096895s notice: Listening for intracluster connections on port 29015
+2021-06-04T17:29:00.394191000 0.098423s notice: Listening for client driver connections on port 28015
+2021-06-04T17:29:00.394251000 0.098484s notice: Listening for administrative HTTP connections on port 8080
+2021-06-04T17:29:00.394257000 0.098489s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2021-06-04T17:29:00.394259000 0.098492s notice: Listening on driver addresses: 127.0.0.1, ::1
+2021-06-04T17:29:00.394264000 0.098496s notice: Listening on http addresses: 127.0.0.1, ::1
+2021-06-04T17:29:00.394267000 0.098500s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2021-06-04T17:29:00.394271000 0.098504s notice: Server ready, "C02M9EPSFD57_c82" d7be3914-46c8-4b28-8fa9-11a5b42782f4
+2021-06-04T17:32:46.171574000 225.883934s info: Table 47349ef7-3c37-4001-8d2f-46b2fa1e9536: Starting a new Raft election for term 1.
+2021-06-04T17:32:46.171847000 225.884208s info: Table 47349ef7-3c37-4001-8d2f-46b2fa1e9536: Added replica on this server.
+2021-06-04T17:32:46.180250000 225.892611s info: Table 47349ef7-3c37-4001-8d2f-46b2fa1e9536: This server is Raft leader for term 1. Latest log index is 0.
+2021-06-04T17:32:57.742434000 237.455212s info: Table 27f1d0d7-f250-437a-aab3-18b4cf67d055: Starting a new Raft election for term 1.
+2021-06-04T17:32:57.742710000 237.455488s info: Table 27f1d0d7-f250-437a-aab3-18b4cf67d055: Added replica on this server.
+2021-06-04T17:32:57.751864000 237.464642s info: Table 27f1d0d7-f250-437a-aab3-18b4cf67d055: This server is Raft leader for term 1. Latest log index is 0.
+2021-06-04T17:33:06.099219000 245.812298s info: Table 227777b1-fd32-477e-9c32-94002ac8cd18: Starting a new Raft election for term 1.
+2021-06-04T17:33:06.099668000 245.812747s info: Table 227777b1-fd32-477e-9c32-94002ac8cd18: Added replica on this server.
+2021-06-04T17:33:06.113734000 245.826813s info: Table 227777b1-fd32-477e-9c32-94002ac8cd18: This server is Raft leader for term 1. Latest log index is 0.
+2021-06-04T17:33:13.197541000 252.910875s info: Table 4d87bd5b-afc3-409a-98c5-411b42e9bd27: Starting a new Raft election for term 1.
+2021-06-04T17:33:13.197933000 252.911267s info: Table 4d87bd5b-afc3-409a-98c5-411b42e9bd27: Added replica on this server.
+2021-06-04T17:33:13.207757000 252.921092s info: Table 4d87bd5b-afc3-409a-98c5-411b42e9bd27: This server is Raft leader for term 1. Latest log index is 0.
+2021-06-04T17:33:18.918043000 258.631582s info: Table ccddfd91-a60b-4c0f-b72e-d6004035702d: Starting a new Raft election for term 1.
+2021-06-04T17:33:18.918479000 258.632019s info: Table ccddfd91-a60b-4c0f-b72e-d6004035702d: Added replica on this server.
+2021-06-04T17:33:18.927202000 258.640743s info: Table ccddfd91-a60b-4c0f-b72e-d6004035702d: This server is Raft leader for term 1. Latest log index is 0.
+2021-06-04T17:33:27.697421000 267.415761s info: Table 38ac0444-ce6d-4d9e-ac98-72e78ce9db40: Starting a new Raft election for term 1.
+2021-06-04T17:33:27.697726000 267.416066s info: Table 38ac0444-ce6d-4d9e-ac98-72e78ce9db40: Added replica on this server.
+2021-06-04T17:33:27.706531000 267.424877s info: Table 38ac0444-ce6d-4d9e-ac98-72e78ce9db40: This server is Raft leader for term 1. Latest log index is 0.
+2021-06-04T17:33:31.852481000 271.573702s info: Table a6ad39ce-1ab9-4880-9df6-cf371b7f85d0: Starting a new Raft election for term 1.
+2021-06-04T17:33:31.852748000 271.573969s info: Table a6ad39ce-1ab9-4880-9df6-cf371b7f85d0: Added replica on this server.
+2021-06-04T17:33:31.862011000 271.583239s info: Table a6ad39ce-1ab9-4880-9df6-cf371b7f85d0: This server is Raft leader for term 1. Latest log index is 0.
